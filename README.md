@@ -3,7 +3,7 @@
 ![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-##Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,linux,py,flutter&perline=3)](https://skillicons.dev)
 
 <!--
