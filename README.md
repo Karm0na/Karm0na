@@ -6,6 +6,12 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,html)](https://skillicons.dev)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karm0na&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Entertainment
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vjxplqmx66a9cjpjhsoas23fm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **Karm0na/Karm0na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
